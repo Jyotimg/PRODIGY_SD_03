@@ -1,0 +1,11 @@
+Contact Management System
+1. Add New Contact
+2. View Contacts
+3. Edit Contact
+4. Delete Contact
+5. Exit
+Enter your choice: 1
+Enter name: John Doe
+Enter phone number: 123-456-7890
+Enter email address: john.doe@example.com
+Contact added successfully!
